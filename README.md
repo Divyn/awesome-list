@@ -43,6 +43,7 @@ On-chain trading strategies, market making, arbitrage, and MEV.
 | [best-route-trader-Uniswap](https://github.com/Divyn/best-route-trader-Uniswap) | divyn | Python | Optimal route trader for Uniswap |
 | [uniswap-v3-liquidity-edge-market-maker](https://github.com/Divyn/uniswap-v3-liquidity-edge-market-maker) | divyn | — | Uniswap V3 liquidity / edge market maker |
 | [DEX-CEX-Price-Discovery](https://github.com/Divyn/DEX-CEX-Price-Discovery) | divyn | Python | DEX-CEX price discovery analysis |
+| [chaotic-dex](https://github.com/Divyn/chaotic-dex) | divyn | TypeScript | Chaotic DEX — logistic map market maker simulator |
 | [hyperliquid-binance-funding-arb](https://github.com/Divyn/hyperliquid-binance-funding-arb) | divyn | — | Funding rate arbitrage between Hyperliquid and Binance |
 | [mev-boost-relay-trade-profit-monitor](https://github.com/Divyn/mev-boost-relay-trade-profit-monitor) | divyn | — | MEV-Boost relay trade profit monitor |
 | [realtime-slippage-pool-trader](https://github.com/divyasshree-BQ/realtime-slippage-pool-trader) | divyasshree-BQ | — | Real-time slippage pool trader |
