@@ -19,8 +19,6 @@ An organized catalog of public repositories from [@divyn](https://github.com/div
 - [Learning & Courses](#learning--courses)
 - [Awesome Lists](#awesome-lists)
 - [Academic & Research](#academic--research)
-- [Miscellaneous](#miscellaneous)
-
 ---
 
 ## AI & Crypto Trading Bots
@@ -234,15 +232,6 @@ Research-oriented projects and algorithms.
 | Repo | Owner | Lang | Description |
 |------|-------|------|-------------|
 | [KDegreeAnonymity-Directed-Graphs](https://github.com/Divyn/KDegreeAnonymity-Directed-Graphs) | divyn | — | K-degree anonymity for directed graphs |
-
-## Miscellaneous
-
-Other projects that don't fit into the categories above.
-
-| Repo | Owner | Lang | Description |
-|------|-------|------|-------------|
-| [streaming_data_platform_docs](https://github.com/Divyn/streaming-data-platform-docs) | divyn | — | (see Streaming & Messaging) |
-| [Divyn.github.io](https://github.com/Divyn/Divyn.github.io) | divyn | — | Personal GitHub Pages site |
 
 ---
 
