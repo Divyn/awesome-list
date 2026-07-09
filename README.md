@@ -1,6 +1,6 @@
 # Awesome List — @divyn & @divyasshree-BQ
 
-An organized catalog of public repositories from [@divyn](https://github.com/divyn) (76 repos) and [@divyasshree-BQ](https://github.com/divyasshree-BQ) (37 repos).
+An organized catalog of public repositories from [@divyn](https://github.com/divyn) (75 repos) and [@divyasshree-BQ](https://github.com/divyasshree-BQ) (37 repos).
 
 ## Contents
 
@@ -171,7 +171,6 @@ Frontend, backend, and full-stack projects across multiple frameworks.
 | [Front-End-Web-Development-with-React](https://github.com/Divyn/Front-End-Web-Development-with-React) | divyn | — | Frontend web development with React |
 | [react-picture-annotation](https://github.com/Divyn/react-picture-annotation) | divyn | — | React picture annotation component |
 | [SwiftUITodo](https://github.com/Divyn/SwiftUITodo) | divyn | — | Todo app in SwiftUI |
-| [nodejs](https://github.com/Divyn/nodejs) | divyn | — | Node.js project |
 | [theme2](https://github.com/Divyn/theme2) | divyn | — | Theme / UI project |
 | [tidy-form-art](https://github.com/Divyn/tidy-form-art) | divyn | — | Form art with Tidyverse |
 | [web3auth-docs](https://github.com/divyasshree-BQ/web3auth-docs) | divyasshree-BQ | — | Web3Auth documentation |
@@ -242,7 +241,7 @@ Research-oriented projects and algorithms.
 
 | | @divyn | @divyasshree-BQ |
 |---|---|---|
-| Total public repos | 76 | 37 |
+| Total public repos | 75 | 37 |
 | Primary languages | Python, Go, C++, Jupyter | Python, Rust, TypeScript, Java, C#, Go |
 
 ## Contributing
