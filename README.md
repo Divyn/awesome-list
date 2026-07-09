@@ -1,6 +1,6 @@
 # Awesome List — @divyn & @divyasshree-BQ
 
-An organized catalog of public repositories from [@divyn](https://github.com/divyn) (74 repos) and [@divyasshree-BQ](https://github.com/divyasshree-BQ) (37 repos).
+An organized catalog of public repositories from [@divyn](https://github.com/divyn) (76 repos) and [@divyasshree-BQ](https://github.com/divyasshree-BQ) (37 repos).
 
 ## Contents
 
@@ -45,6 +45,7 @@ On-chain trading strategies, market making, arbitrage, and MEV.
 | [DEX-CEX-Price-Discovery](https://github.com/Divyn/DEX-CEX-Price-Discovery) | divyn | Python | DEX-CEX price discovery analysis |
 | [chaotic-dex](https://github.com/Divyn/chaotic-dex) | divyn | TypeScript | Chaotic DEX — logistic map market maker simulator |
 | [hyperliquid-binance-funding-arb](https://github.com/Divyn/hyperliquid-binance-funding-arb) | divyn | — | Funding rate arbitrage between Hyperliquid and Binance |
+| [hyperliquid-ohlc-parser](https://github.com/Divyn/hyperliquid-ohlc-parser) | divyn | Python | Real-time OHLC streamer for Hyperliquid using WebSocket candle feed |
 | [mev-boost-relay-trade-profit-monitor](https://github.com/Divyn/mev-boost-relay-trade-profit-monitor) | divyn | — | MEV-Boost relay trade profit monitor |
 | [realtime-slippage-pool-trader](https://github.com/divyasshree-BQ/realtime-slippage-pool-trader) | divyasshree-BQ | — | Real-time slippage pool trader |
 | [ohlc-noise-filter](https://github.com/divyasshree-BQ/ohlc-noise-filter) | divyasshree-BQ | Python | OHLC noise filtering for trading signals |
@@ -132,6 +133,7 @@ MCP (Model Context Protocol) servers, trading skills, and Telegram bots.
 | [telegram-mcp](https://github.com/Divyn/telegram-mcp) | divyn | — | MCP server for Telegram |
 | [bitcoin-price-feed-skill](https://github.com/Divyn/bitcoin-price-feed-skill) | divyn | Python | Bitcoin price feed skill |
 | [in-skill-stripe-payments-demo](https://github.com/Divyn/in-skill-stripe-payments-demo) | divyn | — | In-skill Stripe payments demo |
+| [awesome-share-your-ai-chat](https://github.com/Divyn/awesome-share-your-ai-chat) | divyn | — | Share AI chat messages to social connectors (X, LinkedIn, Slack, Discord) |
 | [telegram-bot](https://github.com/divyasshree-BQ/telegram-bot) | divyasshree-BQ | — | Telegram bot |
 
 ## Privacy & Security
@@ -240,7 +242,7 @@ Research-oriented projects and algorithms.
 
 | | @divyn | @divyasshree-BQ |
 |---|---|---|
-| Total public repos | 74 | 37 |
+| Total public repos | 76 | 37 |
 | Primary languages | Python, Go, C++, Jupyter | Python, Rust, TypeScript, Java, C#, Go |
 
 ## Contributing
@@ -249,4 +251,4 @@ This list is auto-generated from public repos. To add or update a repo, push to 
 
 ---
 
-*Last updated: May 2026*
+*Last updated: July 2026*
