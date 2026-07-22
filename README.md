@@ -133,6 +133,7 @@ MCP (Model Context Protocol) servers, trading skills, and Telegram bots.
 | [telegram-mcp](https://github.com/Divyn/telegram-mcp) | divyn | — | MCP server for Telegram |
 | [bitcoin-price-feed-skill](https://github.com/Divyn/bitcoin-price-feed-skill) | divyn | Python | Bitcoin price feed skill |
 | [in-skill-stripe-payments-demo](https://github.com/Divyn/in-skill-stripe-payments-demo) | divyn | — | In-skill Stripe payments demo |
+| [ap2-402-demo](https://github.com/divyasshree-BQ/ap2-402-demo) | divyasshree-BQ | Python | MCP payment-required API handler using Google's AP2 protocol — catch 402, obtain IntentMandate, retry |
 | [awesome-share-your-ai-chat](https://github.com/Divyn/awesome-share-your-ai-chat) | divyn | — | Share AI chat messages to social connectors (X, LinkedIn, Slack, Discord) |
 | [telegram-bot](https://github.com/divyasshree-BQ/telegram-bot) | divyasshree-BQ | — | Telegram bot |
 
@@ -241,7 +242,7 @@ Research-oriented projects and algorithms.
 
 | | @divyn | @divyasshree-BQ |
 |---|---|---|
-| Total public repos | 75 | 37 |
+| Total public repos | 75 | 38 |
 | Primary languages | Python, Go, C++, Jupyter | Python, Rust, TypeScript, Java, C#, Go |
 
 ## Contributing
