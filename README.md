@@ -1,6 +1,6 @@
 # Awesome List — @divyn & @divyasshree-BQ
 
-An organized catalog of public repositories from [@divyn](https://github.com/divyn) (75 repos) and [@divyasshree-BQ](https://github.com/divyasshree-BQ) (37 repos).
+An organized catalog of public repositories from [@divyn](https://github.com/divyn) (77 repos) and [@divyasshree-BQ](https://github.com/divyasshree-BQ) (40 repos).
 
 ## Contents
 
@@ -55,7 +55,6 @@ On-chain trading strategies, market making, arbitrage, and MEV.
 | [tradingview-advt](https://github.com/divyasshree-BQ/tradingview-advt) | divyasshree-BQ | — | TradingView advanced charting |
 | [Streaming-API-Tradingview-Example](https://github.com/divyasshree-BQ/Streaming-API-Tradingview-Example) | divyasshree-BQ | — | Streaming API for TradingView example |
 | [crypto-price-feeds](https://github.com/Divyn/crypto-price-feeds) | divyn | — | Crypto price feed aggregator |
-| [streaming-moonshot-prices](https://github.com/Divyn/streaming-moonshot-prices) | divyn | — | Streaming prices for moonshot tokens |
 | [pump-fun-live-price](https://github.com/Divyn/pump-fun-live-price) | divyn | — | Live price feed for Pump.fun tokens |
 | [solana-memecoin-index](https://github.com/Divyn/solana-memecoin-index) | divyn | — | Solana memecoin index tracker |
 | [solana-top-tokens-bot](https://github.com/Divyn/solana-top-tokens-bot) | divyn | — | Bot for tracking top Solana tokens |
@@ -112,7 +111,6 @@ Kafka, gRPC, Protobuf, GraphQL streaming, and real-time data infrastructure.
 
 | Repo | Owner | Lang | Description |
 |------|-------|------|-------------|
-| [kafka-consumer-example](https://github.com/Divyn/kafka-consumer-example) | divyn | — | Kafka consumer example |
 | [kafka-stream-typescript](https://github.com/divyasshree-BQ/kafka-stream-typescript) | divyasshree-BQ | TypeScript | Kafka stream processing in TypeScript |
 | [grpc-python-example](https://github.com/divyasshree-BQ/grpc-python-example) | divyasshree-BQ | Python | gRPC example in Python |
 | [protobuf-json-demo](https://github.com/Divyn/protobuf-json-demo) | divyn | — | Protobuf to JSON demo |
@@ -121,7 +119,6 @@ Kafka, gRPC, Protobuf, GraphQL streaming, and real-time data infrastructure.
 | [stream_protobuf_example](https://github.com/divyasshree-BQ/stream_protobuf_example) | divyasshree-BQ | — | Protobuf streaming example |
 | [graphql-docs](https://github.com/Divyn/graphql-docs) | divyn | — | GraphQL documentation / examples |
 | [graphql-streaming-example-rs](https://github.com/divyasshree-BQ/graphql-streaming-example-rs) | divyasshree-BQ | — | GraphQL subscription (DexTrades for Solana/Pumpfun) in Rust |
-| [streaming-data-platform-docs](https://github.com/Divyn/streaming-data-platform-docs) | divyn | — | Streaming data platform documentation |
 
 ## MCP Servers, Bots & Skills
 
@@ -242,7 +239,7 @@ Research-oriented projects and algorithms.
 
 | | @divyn | @divyasshree-BQ |
 |---|---|---|
-| Total public repos | 75 | 38 |
+| Total public repos | 77 | 40 |
 | Primary languages | Python, Go, C++, Jupyter | Python, Rust, TypeScript, Java, C#, Go |
 
 ## Contributing
